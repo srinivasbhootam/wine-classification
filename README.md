@@ -21,7 +21,7 @@ This project demonstrates the classification of wines into three categories usin
 
 4. **Model Evaluation**:
    - Evaluated model performance using metrics such as accuracy, confusion matrix, and classification report.
-   - Achieved an accuracy of 1.00 on the test set (replace with your result).
+   - Achieved an accuracy of 1.00 on the test set.
 
 5. **Visualization**:
    - Plotted a confusion matrix heatmap to interpret predictions.
